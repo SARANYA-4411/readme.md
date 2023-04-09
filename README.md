@@ -1,6 +1,8 @@
+![image](https://user-images.githubusercontent.com/101964529/230787959-4d6f74eb-fa50-4922-823c-966e404eff35.png)
 
 
-<img align="Right" img width="330" alt="image" src="https://user-images.githubusercontent.com/82973819/208291661-f0774b86-f85d-439f-8372-d538434259f4.png">
+<img align="Right" img width="330" alt="image" src="![image](https://user-images.githubusercontent.com/101964529/230787978-527ae9e9-d3f3-40b2-bca1-3c328d0e5398.png)
+">
 
 # Hello, I'm Saranya n! 👋
 
